@@ -1,5 +1,4 @@
 Introduction:**
-
     A comprehensive analysis of financial transactions in a fictional bank to understand customer behavior, 
     account balances, and potential fraud, as well as to generate insights into financial trends and 
     customer segmentation.
@@ -7,7 +6,6 @@ Introduction:**
   **Code:** ()
   
   **Goal:**
-
     To evaluate and analyze customer transactions, identify spending patterns, monitor account 
     activities, and detect anomalies, offering insights to support financial decision-making and improve 
     customer segmentation.
