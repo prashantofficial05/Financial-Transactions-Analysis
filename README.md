@@ -39,9 +39,10 @@ Introduction:**
 
 
 **Summary:**
-    Provides insights into customer account balances, transaction behavior, potential fraud detection, and 
-    customer segmentation. Helps financial institutions better understand customer behavior and support 
-    decision-making.
+
+   Provides insights into customer account balances, transaction behavior, potential fraud detection, and 
+   customer segmentation. Helps financial institutions better understand customer behavior and support 
+   decision-making.
 
 **Next Steps:**
    - Enhance fraud detection using machine learning techniques.
