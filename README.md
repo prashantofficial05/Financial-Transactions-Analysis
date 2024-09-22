@@ -1,4 +1,4 @@
-### Financial Transactions Analysis
+### Financial Transactions Analysis in SQl
 Introduction:**
 
    A comprehensive analysis of financial transactions in a fictional bank to understand customer behavior, 
